@@ -294,8 +294,8 @@ export class MainPage {
 
 ```js
 render() {
-        this.parent.insertAdjacentHTML('beforeend', '<button type="button" class="btn btn-primary">Hello world 3!</button>')
-    }
+    this.parent.insertAdjacentHTML('beforeend', '<button type="button" class="btn btn-primary">Hello world 3!</button>')
+}
 ```
 
 * У нас готов класс для главной страницы, попробуем его добавить в наш `main.js`
