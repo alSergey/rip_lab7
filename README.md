@@ -827,7 +827,7 @@ async render() {
 
 ## 11. Полезные ссылочки
 
-1. Проект, который мы сегодня сделали в методе [тут](https://github.com/alSergey/bmstu_lab8)
+1. Проект, который мы сегодня сделали в методе [тут](https://github.com/alSergey/bmstu_lab7)
 2. Почитать про **document** [тут](https://developer.mozilla.org/ru/docs/Web/API/Document)
 3. Почитать про **insertAdjacentHTML** [тут](https://developer.mozilla.org/ru/docs/Web/API/Element/insertAdjacentHTML)
 4. Почитать про **event** [тут](https://developer.mozilla.org/ru/docs/Web/API/Event)
